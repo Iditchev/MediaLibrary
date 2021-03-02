@@ -11,7 +11,22 @@ namespace MediaLibrary
         private static NLog.Logger logger = NLog.Web.NLogBuilder.ConfigureNLog("nlog.config").GetCurrentClassLogger();
         static void Main(string[] args)
         {
+            string movieFilePath = Directory.GetCurrentDirectory() + "\\movies.csv";
             logger.Info("Program started");
+
+             MovieFile movieFile = new MovieFile(movieFilePath);
+
+             string choice = "";
+            do
+            {
+                // display choices to user
+                Console.WriteLine("1) Add Movie");
+                Console.WriteLine("2) Display All Movies");
+                Console.WriteLine("Enter to quit");
+                // input selection
+                choice = Console.ReadLine();
+                
+                logger.Info("User choice: {Choice}", choice);
 
               // Movie movie = new Movie
              // {
