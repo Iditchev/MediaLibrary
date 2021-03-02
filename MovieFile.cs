@@ -89,7 +89,7 @@ namespace MediaLibrary
                 // first generate movie id
                 movie.mediaId = Movies.Max(m => m.mediaId) + 1;
                 StreamWriter sw = new StreamWriter(filePath, true);
-                sw.WriteLine($"{movie.mediaId},{movie.title},{string.Join("|", movie.genres)}");
+                sw.WriteLine($"{movie.mediaId},{movie.title},{movie.director},{movie.runningTime},{string.Join("|", movie.genres)}");
                 sw.Close();
                 // add movie details to Lists
                 Movies.Add(movie);
