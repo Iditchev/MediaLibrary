@@ -1,0 +1,17 @@
+/Users/izabelditchev/Projects/MediaLibrary/bin/Debug/netcoreapp3.1/nlog.config
+/Users/izabelditchev/Projects/MediaLibrary/bin/Debug/netcoreapp3.1/MediaLibrary.deps.json
+/Users/izabelditchev/Projects/MediaLibrary/bin/Debug/netcoreapp3.1/MediaLibrary.runtimeconfig.json
+/Users/izabelditchev/Projects/MediaLibrary/bin/Debug/netcoreapp3.1/MediaLibrary.runtimeconfig.dev.json
+/Users/izabelditchev/Projects/MediaLibrary/bin/Debug/netcoreapp3.1/MediaLibrary.dll
+/Users/izabelditchev/Projects/MediaLibrary/bin/Debug/netcoreapp3.1/MediaLibrary.pdb
+/Users/izabelditchev/Projects/MediaLibrary/bin/Debug/netcoreapp3.1/NLog.dll
+/Users/izabelditchev/Projects/MediaLibrary/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+/Users/izabelditchev/Projects/MediaLibrary/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+/Users/izabelditchev/Projects/MediaLibrary/obj/Debug/netcoreapp3.1/MediaLibrary.csprojAssemblyReference.cache
+/Users/izabelditchev/Projects/MediaLibrary/obj/Debug/netcoreapp3.1/MediaLibrary.AssemblyInfoInputs.cache
+/Users/izabelditchev/Projects/MediaLibrary/obj/Debug/netcoreapp3.1/MediaLibrary.AssemblyInfo.cs
+/Users/izabelditchev/Projects/MediaLibrary/obj/Debug/netcoreapp3.1/MediaLibrary.csproj.CoreCompileInputs.cache
+/Users/izabelditchev/Projects/MediaLibrary/obj/Debug/netcoreapp3.1/MediaLibrary.csproj.CopyComplete
+/Users/izabelditchev/Projects/MediaLibrary/obj/Debug/netcoreapp3.1/MediaLibrary.dll
+/Users/izabelditchev/Projects/MediaLibrary/obj/Debug/netcoreapp3.1/MediaLibrary.pdb
+/Users/izabelditchev/Projects/MediaLibrary/obj/Debug/netcoreapp3.1/MediaLibrary.genruntimeconfig.cache

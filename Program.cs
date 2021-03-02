@@ -14,10 +14,11 @@ namespace MediaLibrary
               string scrubbedFile = FileScrubber.ScrubMovies("movies.csv");
              logger.Info(scrubbedFile);
 
-            string movieFilePath = Directory.GetCurrentDirectory() + "\\movies.csv";
+            string movieFilePath = "movies.scrubbed.csv";
             logger.Info("Program started");
 
              MovieFile movieFile = new MovieFile(movieFilePath);
+
 
              string choice = "";
             do

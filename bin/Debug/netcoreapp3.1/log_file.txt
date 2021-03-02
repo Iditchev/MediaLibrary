@@ -1,0 +1,30 @@
+2021-03-01 20:33:41.4511|INFO|MediaLibrary.FileScrubber|File scrub started
+2021-03-01 20:33:41.5145|INFO|MediaLibrary.FileScrubber|File scrub ended
+2021-03-01 20:33:41.5325|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-01 20:33:41.5325|INFO|MediaLibrary.Program|Program started
+2021-03-01 20:33:41.5380|ERROR|MediaLibrary.MovieFile|Could not find file '/Users/izabelditchev/Projects/MediaLibrary\movies.csv'.
+2021-03-01 20:34:58.9023|INFO|MediaLibrary.Program|User choice: ""
+2021-03-01 20:34:58.9116|INFO|MediaLibrary.Program|Program ended
+2021-03-01 20:35:06.3969|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-01 20:35:06.4508|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-01 20:35:06.4513|INFO|MediaLibrary.Program|Program started
+2021-03-01 20:35:06.4539|ERROR|MediaLibrary.MovieFile|Could not find file '/Users/izabelditchev/Projects/MediaLibrary\movies.scrubbed.csv'.
+2021-03-01 20:35:19.7897|INFO|MediaLibrary.Program|User choice: ""
+2021-03-01 20:35:19.7989|INFO|MediaLibrary.Program|Program ended
+2021-03-01 20:35:24.1188|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-01 20:35:24.1718|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-01 20:35:24.1718|INFO|MediaLibrary.Program|Program started
+2021-03-01 20:35:24.1745|ERROR|MediaLibrary.MovieFile|Could not find file '/Users/izabelditchev/Projects/MediaLibrary\movies.scrubbed.csv'.
+2021-03-01 20:35:50.4107|INFO|MediaLibrary.Program|User choice: "2"
+2021-03-01 20:36:59.9014|INFO|MediaLibrary.Program|User choice: ""
+2021-03-01 20:36:59.9025|INFO|MediaLibrary.Program|Program ended
+2021-03-01 20:37:11.6723|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-01 20:37:11.7244|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-01 20:37:11.7246|INFO|MediaLibrary.Program|Program started
+2021-03-01 20:37:11.7448|INFO|MediaLibrary.MovieFile|Movies in file 9125
+2021-03-01 20:37:21.1184|INFO|MediaLibrary.Program|User choice: "2"
+2021-03-01 20:37:44.5349|INFO|MediaLibrary.Program|User choice: "1"
+2021-03-01 20:38:59.1772|INFO|MediaLibrary.MovieFile|Movie id 164980 added
+2021-03-01 20:39:08.4035|INFO|MediaLibrary.Program|User choice: "2"
+2021-03-01 20:40:19.6588|INFO|MediaLibrary.Program|User choice: ""
+2021-03-01 20:40:19.6598|INFO|MediaLibrary.Program|Program ended
